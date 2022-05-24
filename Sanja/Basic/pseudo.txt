@@ -1,4 +1,3 @@
-start
 Input num
 random number (1-N)
 if num = random num

@@ -1,1 +1,11 @@
-start
+INPUT 
+array of 10 numbers
+if 
+
+If
+
+ELSE 
+
+OUTPUT min
+max    
+    
