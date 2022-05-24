@@ -8,3 +8,12 @@ rest = sec;
 
 OUTPUT  weeks:days:hours:minutes:seconds
     
+INPUT num
+
+count100 = num / 100;
+count50 = rest / 50;
+count20 = rest / 20;
+count10 = rest / 10;
+
+OUTPUT 
+count100, count50, count20, count10
